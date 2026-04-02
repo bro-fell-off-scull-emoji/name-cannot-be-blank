@@ -39,17 +39,6 @@ class Browser {
         // logic to close the browser
     }
 }
-
-// Admin Panel
-class AdminPanel {
-    manageUsers() {
-        // logic to manage users
-    }
-    viewLogs() {
-        // logic to view logs
-    }
-}
-
 // Themes
 class Themes {
     applyTheme(theme) {
